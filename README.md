@@ -11,4 +11,15 @@
 
 ## TODO
 
-[ ] Fix bug when quitting edit mode, focus is on incorrect cell. It should be on the last cell
+- [ ] Fix bug when quitting edit mode, focus is on incorrect cell. It should be on the last cell
+
+## Screenshots
+
+| Feature | Screenshot |
+|---------|------------|
+| Base | <img src="Resources/1-base.png"> |
+| Edit | <img src="Resources/2-edit.png"> |
+| Wiggle | <img src="Resources/3-wiggle.png"> |
+| Commit | <img src="Resources/4-commit.png"> |
+
+[Demo video](Resources/demo.mp4)
